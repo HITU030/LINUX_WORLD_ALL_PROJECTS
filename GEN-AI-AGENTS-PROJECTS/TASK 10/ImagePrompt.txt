@@ -1,0 +1,15 @@
+Here's one professional AI image generation prompt, detailed and ready for use:
+
+---
+
+**Prompt:**
+
+A magnificent, photorealistic Holstein cow, depicted in perfect zero gravity, gracefully suspended in the inky blackness of deep space. Its black and white hide shows intricate fur texture, subtle muscle definition, and a healthy sheen, with its gentle, intelligent eyes reflecting the cosmic environment around it. The cow's mouth is slightly open, delicately munching on a small, vibrant, dew-kissed clump of emerald green grass that floats serenely beside its muzzle.
+
+The scene is set against a breathtaking backdrop: a swirling, iridescent nebula of rich blues, purples, and ethereal pinks dominates the distant background, providing a dramatic, colorful tapestry. Countless twinkling stars of varying magnitudes populate the void, some appearing as distant pinpricks, others as brighter, more defined points of light. Far in the background, a majestic, ringed gas giant planet (perhaps with a subtle aurora) looms, partially illuminated.
+
+Lighting is cinematic and dramatic, originating from an unseen, brilliant star just out of frame. This light casts crisp rim lighting on the cow's form, highlighting its curves against the darker depths of space, and creating subtle, yet defined, shadows. The grass itself glows with a soft, internal luminescence, contrasting with the sharp highlights on the cow's fur. The overall mood is one of surreal wonder, peaceful grandeur, and breathtaking realism.
+
+**Style & Technical:** Ultra-realistic, hyper-detailed, photorealistic render. Shot with a wide-angle lens, maintaining sharp focus on the cow and grass, with a natural, gentle depth of field that subtly blurs the most distant cosmic elements. High resolution, intricate textures, 8K, cinematic lighting, dramatic composition, award-winning photography, volumetric light, cosmic dust. --ar 16:9
+
+---

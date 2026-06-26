@@ -1,0 +1,32 @@
+Here is your professional, ATS-friendly resume created using ONLY the information provided:
+
+---
+
+### HITESH KUMAR SHARMA
+Phone: 9667442138 | Email: HITESHSHARMA0030@GMAIL.COM
+LinkedIn: www.linkedin.com/in/hiteshsharma9667 | GitHub: https://github.com/HITU030
+
+---
+
+### Career Objective
+A motivated individual seeking an AI Engineer position to apply foundational Python skills and experience gained through a Gen-AI internship and an AI-focused project.
+
+---
+
+### Skills
+*   **Programming Languages:** Python
+
+---
+
+### Projects
+*   AI Chatbot
+
+---
+
+### Internship
+**Gen-AI Intern** | linux world
+
+---
+
+### Education
+**B.TECH**
