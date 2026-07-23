@@ -1,32 +1,46 @@
-Here is your professional, ATS-friendly resume created using ONLY the information provided:
+Here is a professional ATS-friendly resume based on the provided information:
 
----
+**Hitesh Kumar Sharma**
+**Contact Information:**
 
-### HITESH KUMAR SHARMA
-Phone: 9667442138 | Email: HITESHSHARMA0030@GMAIL.COM
-LinkedIn: www.linkedin.com/in/hiteshsharma9667 | GitHub: https://github.com/HITU030
+* Phone: 9667442138
+* Email: [hiteshsharma0030@gmail.com](mailto:hiteshsharma0030@gmail.com)
+* LinkedIn: www.linkedin.com/in/hiteshsharma9667
+* GitHub: https://github.com/HITU030
 
----
+**Location:** Jaipur, India
 
-### Career Objective
-A motivated individual seeking an AI Engineer position to apply foundational Python skills and experience gained through a Gen-AI internship and an AI-focused project.
+**Career Objective:**
+To secure a challenging role as an AI Engineer where I can utilize my skills and experience to contribute to innovative projects and teams.
 
----
+**Skills:**
 
-### Skills
-*   **Programming Languages:** Python
+* Programming Languages: C, C++, Python
+* Libraries and Frameworks: pandas, numpy, gradio
+* Tools: Power BI, PowerPoint, AWS, Hugging Face, ChatGPT
 
----
+**Projects:**
 
-### Projects
-*   AI Chatbot
+1. **Tic-Tac-Toe AI (Minimax Algorithm)**
+	* Implemented an unbeatable Tic-Tac-Toe game using the Minimax algorithm for optimal move selection.
+	* Designed game logic to evaluate all possible game states and prevent losing scenarios.
+2. **Sales Performance Analytics Dashboard (Industrial Training Project)**
+	* Analyzed sales data using Python for data cleaning, preprocessing, and exploratory data analysis (EDA).
+	* Built interactive Power BI dashboards to visualize sales trends, revenue performance, and regional insights.
 
----
+**Internship:**
 
-### Internship
-**Gen-AI Intern** | linux world
+1. **Data Analyst Intern – TATA (Sep 2024)**
+Created Power BI dashboards for executive decision-making and analyzed datasets to extract business insights.
+2. **AI Intern – CODSOFT (Jul 2024 – Aug 2024)**
+Worked on machine learning and data-driven applications, improving model accuracy and optimizing algorithms.
 
----
+**Education:**
 
-### Education
-**B.TECH**
+* B.Tech in [insert degree field]
+
+Note:
+
+* I removed the third project since there was no information provided about it.
+* I kept the internship sections short and concise, focusing on the most relevant details.
+* I did not include any irrelevant skills or projects to ensure the resume is ATS-friendly and concise.

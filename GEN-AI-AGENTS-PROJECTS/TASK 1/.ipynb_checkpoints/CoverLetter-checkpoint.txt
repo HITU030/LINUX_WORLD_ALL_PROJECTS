@@ -1,0 +1,33 @@
+Here's a professional cover letter for the AI Engineer position at Google:
+
+[Your Name]
+Hitesh Kumar Sharma
+[Phone Number]
+[Email Address]
+[Location: Jaipur]
+
+[Date]
+
+Google LLC
+Mountain View, CA 94043
+
+Dear Hiring Manager,
+
+I am thrilled to apply for the esteemed position of AI Engineer at Google, where I can leverage my technical expertise and passion for innovation to contribute to the company's mission. As a highly motivated and detail-oriented individual with a strong educational background in Computer Science, I am confident that I would be an excellent fit for your team.
+
+With a Bachelor's degree in B.Tech and proficiency in programming languages like C, C++, and Python, I possess a solid foundation in computer science. My experience with libraries such as pandas, numpy, and Gradio has allowed me to develop robust data analysis and machine learning capabilities. Additionally, my expertise in tools like Power BI, PowerPoint, AWS, HuggingFace, and ChatGPT enables me to efficiently design and deploy scalable AI solutions.
+
+Throughout my academic journey and professional endeavors, I have demonstrated a commitment to delivering high-quality results and driving impact through innovative solutions. My notable projects include the implementation of an unbeatable Tic-Tac-Toe game using the Minimax algorithm for optimal move selection, as well as analyzing sales data using Python for data cleaning, preprocessing, and exploratory data analysis (EDA). These projects have not only honed my technical skills but also allowed me to apply theoretical concepts to real-world problems.
+
+In my internship experience, I have gained valuable exposure to the industry by working with prominent organizations such as Tata and CODSOFT. As a Data Analyst Intern at Tata, I created Power BI dashboards for executive decision-making and analyzed datasets to extract business insights and trends. My AI Intern role at CODSOFT involved improving model accuracy and optimizing algorithms, while collaborating on real-world AI problem statements. Currently, I am an active participant in the Gen-AI Intern program, where I continue to develop my skills in machine learning and data-driven applications.
+
+I am particularly drawn to Google's cutting-edge approach to AI research and development, and I am excited about the prospect of joining a team that shares my passion for innovation and making a positive impact. I have attached my resume for your review, which provides more details about my qualifications and experience.
+
+Thank you for considering my application. I would welcome the opportunity to discuss how my skills and experience align with Google's AI engineering goals.
+
+Sincerely,
+
+Hitesh Kumar Sharma
+
+[Phone Number]
+[Email Address]

@@ -1,78 +1,59 @@
+**Generating a Simple Program with IF-ELSE LOOP using Python**
+
 ```python
-# --- Simple Python Calculator ---
+# Define a function that asks for user input and calculates the result based on the condition
+def calculate_grade(score):
+    # If the score is greater than 90, print 'A' (Excellent)
+    if score > 90:
+        return 'A'
+    # If the score is between 80 and 90, print 'B' (Good)
+    elif score >= 80:
+        return 'B'
+    # If the score is between 70 and 79, print 'C' (Fair)
+    elif score >= 70:
+        return 'C'
+    # If the score is between 60 and 69, print 'D' (Poor)
+    elif score >= 60:
+        return 'D'
+    # If the score is less than 60, print 'F' (Fail)
+    else:
+        return 'F'
 
-def add(x, y):
-    """Adds two numbers and returns the sum."""
-    return x + y
+# Ask for user input
+score = int(input("Enter your exam score: "))
 
-def subtract(x, y):
-    """Subtracts two numbers and returns the difference."""
-    return x - y
-
-def multiply(x, y):
-    """Multiplies two numbers and returns the product."""
-    return x * y
-
-def divide(x, y):
-    """Divides two numbers and returns the quotient. Handles division by zero."""
-    if y == 0:
-        return "Error: Cannot divide by zero!"
-    return x / y
-
-print("Welcome to the Simple Python Calculator!")
-print("---------------------------------------")
-
-while True:
-    print("\nSelect operation:")
-    print("1. Add (+)")
-    print("2. Subtract (-)")
-    print("3. Multiply (*)")
-    print("4. Divide (/)")
-    print("Type 'exit' to quit the calculator.")
-
-    choice = input("Enter choice (1/2/3/4 or symbol +-*/): ").strip().lower()
-
-    if choice == 'exit':
-        print("Thank you for using the calculator. Goodbye!")
-        break
-
-    # Validate operation choice
-    if choice not in ('1', '2', '3', '4', '+', '-', '*', '/'):
-        print("Invalid input. Please enter a valid operation choice (1/2/3/4 or +-*/).")
-        continue
-
-    try:
-        num1 = float(input("Enter first number: "))
-        num2 = float(input("Enter second number: "))
-    except ValueError:
-        print("Invalid input. Please enter valid numbers only.")
-        continue # Skip to the next iteration of the loop
-
-    result = None
-    operator_symbol = ""
-
-    if choice in ('1', '+'):
-        result = add(num1, num2)
-        operator_symbol = "+"
-    elif choice in ('2', '-'):
-        result = subtract(num1, num2)
-        operator_symbol = "-"
-    elif choice in ('3', '*'):
-        result = multiply(num1, num2)
-        operator_symbol = "*"
-    elif choice in ('4', '/'):
-        result = divide(num1, num2)
-        operator_symbol = "/"
-
-    # Display the result if it's not an error message from divide function
-    if isinstance(result, str) and "Error" in result:
-        print(result)
-    elif result is not None:
-        print(f"{num1} {operator_symbol} {num2} = {result}")
-
-    print("\n---------------------------------------")
-    another_calculation = input("Do you want to perform another calculation? (yes/no): ").strip().lower()
-    if another_calculation != 'yes':
-        print("Thank you for using the calculator. Goodbye!")
-        break
+# Calculate and print the result
+result = calculate_grade(score)
+print(f"Your grade is: {result}")
 ```
+
+To explain this code line by line:
+
+1. `def calculate_grade(score):`
+   - This line defines a function called `calculate_grade` that takes one argument, `score`.
+   - The purpose of this function is to determine the student's grade based on their score.
+
+2. `if score > 90:`
+   - If the condition inside the `if` statement (`score > 90`) is true, it means the score is greater than 90.
+   - In this case, the code within the `if` block will be executed.
+
+3. `return 'A'`
+   - When the score is above 90, the function returns the string `'A'`, indicating an 'Excellent' grade.
+
+4. The rest of the function follows similar lines to handle scores between different ranges:
+   - Each range has its corresponding return statement with a specific letter grade (e.g., `return 'B' for scores >= 80`).
+
+5. The last line in the function handles scores below 60:
+   - In this case, the function returns `'F'`, indicating a 'Fail'.
+
+6. `score = int(input("Enter your exam score: "))`
+   - This line asks the user to input their score.
+   - The `input()` function returns a string, so we use `int()` to convert it into an integer for calculations.
+
+7. `result = calculate_grade(score)`
+   - We call our function with the score entered by the user and store the result in the variable `result`.
+
+8. `print(f"Your grade is: {result}")`
+   - Finally, we print out the student's grade to the console using an f-string.
+
+This code provides a basic example of how IF-ELSE loops can be used in Python programming to make decisions based on conditions and execute different blocks of code accordingly.
